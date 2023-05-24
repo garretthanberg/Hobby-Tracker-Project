@@ -1,7 +1,7 @@
 # Hobby-Tracker Project:
 
 
-![Screenshot 2023-05-23 at 21 54 27](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/59449677-59a6-497c-b482-3c1fc762653a)
+![Screenshot 2023-05-23 at 22 29 21](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/505f2f1e-e025-42b0-a5c8-509f04ec2a9e)
 
 
 During my impactful internship at Prosper I.T. Consulting, I had the privilege of collaborating with a dynamic team on a Python Django web application. This project provided me with invaluable exposure to a legacy codebase, where I enthusiastically undertook the responsibility of implementing new features, resolving bugs, and enhancing the overall user experience. This immersive experience served as a transformative learning opportunity, equipping me with the skills to navigate existing codebases and deliver exceptional products within tight deadlines.
