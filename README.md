@@ -10,7 +10,7 @@ During my impactful internship at Prosper I.T. Consulting, I had the privilege o
 ![Screenshot 2023-05-23 at 22 01 44](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/533f15ae-afd5-4fb0-9e32-b0df249f1a27)
 
 
-Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left an indelible mark on my professional growth. These stories, which I take immense pride in, allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
+Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left an permanent mark on my professional growth. These stories allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
 
 
 ![Screenshot 2023-05-23 at 21 56 27](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/20a59761-3e84-4058-b283-830be96b5d2a)
@@ -22,10 +22,10 @@ Furthermore, this experience propelled my development of essential project manag
 ![Screenshot 2023-05-23 at 21 53 37](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/6b0ca91f-9d17-46a9-8744-083f5e1cc30e)
 
 
-Moreover, I honed the art of optimizing project flow by fostering a culture of open communication and harmonious coordination. Navigating the intricate tapestry of collaborative development, I adeptly orchestrated file checkouts, ensuring a streamlined workflow and enhancing productivity. Witnessing the collaborative synergy of my esteemed colleagues proved instrumental in refining my own practices, as I actively learned newfound efficiencies and techniques through inquisitive questioning and keen observation. This profound exposure to diverse workflows unveiled novel perspectives, bolstering my ability to navigate complex development landscapes with finesse and grace.
+Moreover, I honed the art of optimizing project flow by fostering a culture of open communication and harmonious coordination. Navigating the intricate tapestry of collaborative development, I adeptly orchestrated file checkouts, ensuring a streamlined workflow and enhancing productivity. Witnessing the collaborative synergy of my esteemed colleagues proved instrumental in refining my own practices, as I actively learned newfound efficiencies and techniques through inquisitive questioning and keen observation. 
 
 
 ![Screenshot 2023-05-23 at 21 54 04](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/f75ab000-7715-49b5-ade0-a7ac0d0554d2)
 
 
-As I continue to embark on new ventures, I am profoundly grateful for the lessons learned and the growth attained during my time at Prosper I.T. Consulting. This project showcased in this repository is a testament to my dedication, adaptability, and commitment to delivering exceptional solutions. As I embark on new horizons, the invaluable lessons learned from this transformative project will undoubtedly continue to propel me towards excellence, guiding my future endeavors with unwavering proficiency and elevating the standards of achievement.
+As I continue to embark on new ventures, I am profoundly grateful for the lessons learned and the growth attained during my time at Prosper I.T. Consulting. This project is a testament to my dedication, adaptability, and commitment to delivering exceptional solutions. The invaluable lessons learned from this transformative project will undoubtedly continue to propel me towards excellence, guiding my future endeavors with unwavering proficiency and elevating the standards of achievement.
