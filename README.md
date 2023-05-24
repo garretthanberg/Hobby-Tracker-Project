@@ -22,7 +22,7 @@ Furthermore, this experience propelled my development of essential project manag
 ![Screenshot 2023-05-23 at 21 53 37](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/6b0ca91f-9d17-46a9-8744-083f5e1cc30e)
 
 
-Moreover, I honed the art of optimizing project flow by fostering a culture of open communication and harmonious coordination. Navigating the intricate tapestry of collaborative development, I adeptly orchestrated file checkouts, ensuring a streamlined workflow and enhancing productivity. Witnessing the collaborative synergy of my esteemed colleagues proved instrumental in refining my own practices, as I actively learned newfound efficiencies and techniques through inquisitive questioning and keen observation. 
+Moreover, I honed the art of optimizing project flow by fostering a culture of open communication and harmonious coordination. Witnessing the collaborative synergy of my esteemed colleagues proved instrumental in refining my own practices, as I actively learned newfound efficiencies and techniques through inquisitive questioning and keen observation. 
 
 
 ![Screenshot 2023-05-23 at 22 31 52](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/69692bb8-fb90-498d-be8d-c667b3ec09c0)
