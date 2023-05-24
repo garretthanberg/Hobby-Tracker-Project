@@ -13,7 +13,7 @@ During my impactful internship at Prosper I.T. Consulting, I had the privilege o
 Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left an permanent mark on my professional growth. These stories allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
 
 
-![Screenshot 2023-05-23 at 21 56 27](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/20a59761-3e84-4058-b283-830be96b5d2a)
+![Screenshot 2023-05-23 at 22 30 29](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/38778b79-4a71-4eb3-9af5-f10812c01748)
 
 
 Furthermore, this experience propelled my development of essential project management and team programming skills. The exposure to collaborative problem-solving and effective communication has bolstered my confidence in spearheading future projects with utmost professionalism and efficiency. Immersed in a dynamic development environment, I cultivated the ability to collaborate seamlessly with fellow developers, collectively identifying and remedying front-end and back-end bugs to elevate the user experience to unprecedented heights. This invaluable skill of bug resolution fortified my problem-solving acumen and fostered an unwavering commitment to delivering flawlessly polished solutions.
