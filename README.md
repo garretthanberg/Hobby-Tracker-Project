@@ -10,7 +10,7 @@ During my impactful internship at Prosper I.T. Consulting, I had the privilege o
 ![Screenshot 2023-05-23 at 22 01 44](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/533f15ae-afd5-4fb0-9e32-b0df249f1a27)
 
 
-Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left an permanent mark on my professional growth. These stories allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
+Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left a permanent mark on my professional growth. These stories allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
 
 
 ![Screenshot 2023-05-23 at 22 30 29](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/38778b79-4a71-4eb3-9af5-f10812c01748)
