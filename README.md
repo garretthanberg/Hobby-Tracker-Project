@@ -25,7 +25,7 @@ Furthermore, this experience propelled my development of essential project manag
 Moreover, I honed the art of optimizing project flow by fostering a culture of open communication and harmonious coordination. Navigating the intricate tapestry of collaborative development, I adeptly orchestrated file checkouts, ensuring a streamlined workflow and enhancing productivity. Witnessing the collaborative synergy of my esteemed colleagues proved instrumental in refining my own practices, as I actively learned newfound efficiencies and techniques through inquisitive questioning and keen observation. 
 
 
-![Screenshot 2023-05-23 at 21 54 04](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/f75ab000-7715-49b5-ade0-a7ac0d0554d2)
+![Screenshot 2023-05-23 at 22 31 52](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/69692bb8-fb90-498d-be8d-c667b3ec09c0)
 
 
 As I continue to embark on new ventures, I am profoundly grateful for the lessons learned and the growth attained during my time at Prosper I.T. Consulting. This project is a testament to my dedication, adaptability, and commitment to delivering exceptional solutions. The invaluable lessons learned from this transformative project will undoubtedly continue to propel me towards excellence, guiding my future endeavors with unwavering proficiency and elevating the standards of achievement.
