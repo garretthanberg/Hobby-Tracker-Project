@@ -1,4 +1,4 @@
-# Hobby-Tracker Project (Bora Bora Resort):
+# Hobby-Tracker (Bora Bora Resort):
 
 
 ![Screenshot 2023-05-23 at 22 29 21](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/505f2f1e-e025-42b0-a5c8-509f04ec2a9e)
