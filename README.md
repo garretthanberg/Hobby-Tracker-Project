@@ -7,7 +7,7 @@
 During my impactful internship at Prosper I.T. Consulting, I had the privilege of collaborating with a dynamic team on a Python Django web application. This project provided me with invaluable exposure to a legacy codebase, where I enthusiastically undertook the responsibility of implementing new features, resolving bugs, and enhancing the overall user experience. This immersive experience served as a transformative learning opportunity, equipping me with the skills to navigate existing codebases and deliver exceptional products within tight deadlines.
 
 
-![Screenshot 2023-05-23 at 21 56 02](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/c8b3eb81-648e-4229-a055-d04c8a2a8a42)
+![Screenshot 2023-05-23 at 22 01 44](https://github.com/garretthanberg/Hobby-Tracker/assets/115447682/533f15ae-afd5-4fb0-9e32-b0df249f1a27)
 
 
 Throughout the intensive sprints during the project, I eagerly undertook a range of back-end stories that have left an indelible mark on my professional growth. These stories, which I take immense pride in, allowed me to showcase my technical prowess and contribute significantly to the project's success. In addition, I enthusiastically embraced the opportunity to work on front-end stories and UX improvements, which presented their own unique set of challenges. Our cohesive team fostered an environment of equal opportunity, ensuring that each team member had the chance to explore and contribute to both front-end and back-end functionalities.
